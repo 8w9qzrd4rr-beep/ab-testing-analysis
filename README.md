@@ -32,6 +32,9 @@ ab-testing-analysis/
 │   └── power_analysis.png
 ├── outputs/
 │   └── ab_report.xlsx      # Test results summary
+├── explore_notebooks/
+│   └── clean_data.ipynb
+│   └── move_to_db.ipynb
 ├── clean_data.py
 ├── load_to_db.py
 ├── run_tests.py
